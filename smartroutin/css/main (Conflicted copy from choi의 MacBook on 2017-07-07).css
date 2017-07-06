@@ -1,0 +1,22 @@
+
+.body{
+    font-family: "mainfont";
+}
+
+p,h1,h2,h3,h4,h5,h6,span{
+ font-family: 'mainfont','nanumsquare';
+}
+.background {
+    background-image: url('/img/KakaoTalk.jpeg');
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+   
+}
+
+
+.container-fluid {
+    background-color: black;
+    color: white;
+}
